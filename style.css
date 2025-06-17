@@ -1,12 +1,12 @@
 
-    body{font-family: arial, sans-serif;
+    body{
+        font-family: arial, sans-serif;
         background: #0f0f0f;
         padding: 20px;
         text-align: center;
     }
 
-    
-        .video-box {
+       .video-box {
             backgroud: #a62121;
             padding: 10px;
             border-radius: 6px;
